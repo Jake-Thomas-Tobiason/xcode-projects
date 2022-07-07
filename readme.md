@@ -1,1 +1,2 @@
-This is a repository containing all the projectds and code created following learncpp.com
+# C++
+### This is a repository containing all the projects and code created following learncpp.com
